@@ -12,6 +12,6 @@ A chatbot deployed on discord for get songs, albums, playlists and singers infor
 
 ## You will find in this repositery :
 
-- All the [Chatbot functions](https://github.com/thomastrg/Price_prediction_footballers/blob/main/rapport/Player_Value_Prediction.pdf)
-- The [Recommender system](https://github.com/thomastrg/Price_prediction_footballers/tree/main/Modeling)
-- The [dataset used by the recommender system](http://footballerprediction.herokuapp.com/players)
+- All the [Chatbot functions](https://github.com/ikhlo/SpotiBot/tree/main/SpotiBot)
+- The [Recommender system](https://github.com/ikhlo/SpotiBot/tree/main/SpotiBotRecommend)
+- The [dataset used by the recommender system](https://github.com/ikhlo/SpotiBot/tree/main/SpotiBotRecommend/data)
